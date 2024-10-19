@@ -1621,7 +1621,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.5.0",
+  "previousRelease": "2.5.2",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

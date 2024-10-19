@@ -41,7 +41,5 @@ renderTable();
 
 // Refresh every 10 seconds (100000 milliseconds)
 setInterval(renderTable, 100000);
-
-
 ```
 
