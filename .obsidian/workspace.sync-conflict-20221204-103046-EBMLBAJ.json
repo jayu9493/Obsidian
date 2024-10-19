@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "89dbf18f05eb025a",
+    "type": "split",
+    "children": [
+      {
+        "id": "090a6ce7212c7f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068e7c17c6799eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "do next.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "486f88dbcbb41688",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2cca1e4481ba0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90a77d69344c7a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#unsolved",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32f02504ff304c22",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cb9d8a71b8ad6e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "f8991d80ab13926d",
+    "type": "split",
+    "children": [
+      {
+        "id": "836e846827c4df29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d713c6db5b3d17d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5a34dc6a21fb6c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "do next.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e8a2a8e5fc38fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "do next.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "36bbc1266d5f8dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "do next.md"
+              }
+            }
+          },
+          {
+            "id": "80994b62e7c5ff2a",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "059e5f085b0074bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5,
+    "collapsed": true
+  },
+  "active": "068e7c17c6799eb1",
+  "lastOpenFiles": [
+    "Important links.md",
+    "do next.md",
+    "Home.md",
+    "Linux_Programming/Linux size increase.md",
+    "Linux_Programming/Linux opensource projects.md",
+    "Linux_Programming/DOT files.md",
+    "Linux_Programming/Bash.md",
+    "Linux_Programming/Learning.md",
+    "Linux_Programming/Emacs_Vim Learning.md",
+    "Learning.md"
+  ]
+}

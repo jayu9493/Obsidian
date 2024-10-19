@@ -1,0 +1,10 @@
+{
+  "accentColor": "#b07cda",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Liga SFMono Nerd Font,FiraCode Nerd Font,JetBrainsMono Nerd Font",
+  "baseFontSizeAction": false,
+  "baseFontSize": 18,
+  "textFontFamily": "Liga SFMono Nerd Font",
+  "monospaceFontFamily": "Liga SFMono Nerd Font",
+  "theme": "obsidian"
+}

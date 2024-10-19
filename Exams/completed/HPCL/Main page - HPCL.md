@@ -1,0 +1,5 @@
+
+## Previous year question papers:
+[[HPCLENGEE2021WWW.EXAMBOOK.CO.pdf | HPCL 2021 Paper]]
+[[HPCLENGELECTRICAL2022WWW.ALLEXAMREVIEW.COM.pdf | HPCL 2022 Paper]]
+

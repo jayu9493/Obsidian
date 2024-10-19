@@ -1,0 +1,1 @@
+- Vacuum circuit breaker is used 

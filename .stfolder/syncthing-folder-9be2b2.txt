@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: dseed-w3vky
+created: 2024-07-15T08:15:22+05:30

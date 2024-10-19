@@ -1,0 +1,8 @@
+- time current chart also called trip curves it is description of how an overcurrent will trip the fuses or circuit breakers.
+- Y axis is time and x axis is current, less current means it takes long time to trip.
+- y axis is logarithmic and x axis is time
+- moving down, the faster response and moving up, the slower response.
+- ![[Pasted image 20231105120238.png]]
+- Current is shown on the horizontal axis using a logarithmic scale and is plotted as amps X 10X.Time is shown on the vertical axis using a logarithmic scale and is plotted in seconds X10X.
+- The light blue curve is a switchgear feeder circuit breaker curve. The violet curve is the switchgear main circuit breaker curve. The red curve is the transformer primary fuse curve. The orange curve is the transformer damage curve. The green curves are the cable damage curves. **The system represented by this curve is well coordinated and adequately protected from damage. It also has minimal arc flash hazard category ratings due to low instantaneous circuit breaker trip values.**
+- 

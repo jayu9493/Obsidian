@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Electrical Machines\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Power System\"",
+      "color": {
+        "a": 1,
+        "rgb": 16716032
+      }
+    },
+    {
+      "query": "path:Linux_Programming",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.4375,
+  "repelStrength": 7.91666666666667,
+  "linkStrength": 1,
+  "linkDistance": 127,
+  "scale": 0.5399268537943028,
+  "close": true
+}

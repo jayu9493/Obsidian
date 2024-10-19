@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "89dbf18f05eb025a",
+    "type": "split",
+    "children": [
+      {
+        "id": "824b870b07750296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdba95309e10c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "486f88dbcbb41688",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2cca1e4481ba0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90a77d69344c7a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#unsolved",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32f02504ff304c22",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cb9d8a71b8ad6e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "f8991d80ab13926d",
+    "type": "split",
+    "children": [
+      {
+        "id": "836e846827c4df29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d713c6db5b3d17d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5a34dc6a21fb6c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e8a2a8e5fc38fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "36bbc1266d5f8dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "80994b62e7c5ff2a",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "059e5f085b0074bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5,
+    "collapsed": true
+  },
+  "active": "cbdba95309e10c59",
+  "lastOpenFiles": [
+    "Home.md",
+    "DWM/config.h.md",
+    "DWM/DWM.md",
+    "Internship/Info.sync-conflict-20221204-103046-TCWHDZV.md",
+    "Linux_Programming/Liunx system & C.md",
+    "Linux_Programming/Learning.sync-conflict-20221204-103046-TCWHDZV.md",
+    "Linux_Programming/Learning.md",
+    "DWM/dwm.sh.md",
+    "DWM/Dwm contribution.md",
+    "do next.md"
+  ]
+}

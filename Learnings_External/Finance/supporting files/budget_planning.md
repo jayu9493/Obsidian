@@ -1,0 +1,3 @@
+- Major provisions are included in below sheet:
+- [[JUL_24.pdf - Shortcut.lnk]]
+- 

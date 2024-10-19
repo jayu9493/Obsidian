@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "3991c4c86464eb07",
+    "type": "split",
+    "children": [
+      {
+        "id": "473e669ed78593b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ca3967564218bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Detail Engineering/Research papers/Intrinsically Safe Circuit Design.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ce55bcbb4d1f715",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cdbc0c529c5653f0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0ca2b22a99e0ea8e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2913fa6c1ef4778f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "221f2ff362295acc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8ad3d5c5dbdc1e55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5de7c5f5ae0b5d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Detail Engineering/Research papers/Intrinsically Safe Circuit Design.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a418110fbe65957e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Detail Engineering/Research papers/Intrinsically Safe Circuit Design.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "10922321cabe08c4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Detail Engineering/Research papers/Intrinsically Safe Circuit Design.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "51ca3967564218bf",
+  "lastOpenFiles": [
+    "Detail Engineering/Research papers/safety_barriers.pdf",
+    "Detail Engineering/Research papers/Intrinsically Safe Circuit Design.pdf",
+    "Measurement subject.md"
+  ]
+}

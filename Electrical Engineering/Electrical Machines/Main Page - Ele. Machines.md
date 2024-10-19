@@ -1,0 +1,5 @@
+[[Main Page - DC Mach.]]
+[[Main Page - Induction Mach.]]
+[[Main Page - Sync. Generator]]
+[[Main Page - Special Machines]]
+[[Electrical Engineering/Electrical Machines/Transformer/Main Page - Transformer|Main Page - Transformer]]

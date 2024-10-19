@@ -1,0 +1,4 @@
+- DOL ( Direct online starter)
+- Star - Delta ( Star delta starter)
+- Auto Transformer ( Not used normally)
+- Resistor bank ( only in slip ring induction motors)

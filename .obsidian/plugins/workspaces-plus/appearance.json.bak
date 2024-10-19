@@ -1,0 +1,31 @@
+{
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Arial",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "custom-background",
+    "custom-rainbow-colors",
+    "Daily Note Themes",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "hide-properties",
+    "its-frontmatter",
+    "MCL Multi Column",
+    "Minecraft",
+    "media-grid-snippet",
+    "minimal-cards",
+    "Notebook Backgrounds",
+    "notion-cards",
+    "stormy's General Tweaks",
+    "yt",
+    "custom"
+  ],
+  "accentColor": ""
+}
