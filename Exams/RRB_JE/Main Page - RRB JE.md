@@ -20,4 +20,4 @@ Exam_date: 06/12/2024
 
 
 ### Preparation:
-
+- 
